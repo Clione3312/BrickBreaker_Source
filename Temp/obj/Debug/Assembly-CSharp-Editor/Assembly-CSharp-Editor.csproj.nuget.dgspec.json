@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-Editor.csproj",
+        "packagesPath": "C:\\Users\\Clione_Pc\\.nuget\\packages\\",
+        "outputPath": "G:\\Unity\\Projects\\BreakoutGame\\Temp\\obj\\Debug\\Assembly-CSharp-Editor\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Clione_Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-firstpass.csproj"
+              },
+              "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp.csproj": {
+                "projectPath": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-firstpass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-firstpass.csproj",
+        "projectName": "Assembly-CSharp-firstpass",
+        "projectPath": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-firstpass.csproj",
+        "packagesPath": "C:\\Users\\Clione_Pc\\.nuget\\packages\\",
+        "outputPath": "G:\\Unity\\Projects\\BreakoutGame\\Temp\\obj\\Debug\\Assembly-CSharp-firstpass\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Clione_Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\Clione_Pc\\.nuget\\packages\\",
+        "outputPath": "G:\\Unity\\Projects\\BreakoutGame\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Clione_Pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "G:\\Unity\\Projects\\BreakoutGame\\Assembly-CSharp-firstpass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
